@@ -7,6 +7,7 @@ O arquivo contém um Dashboard desenvolvido a partir de dados de planos da XBOX.
 A base de dados contém planos de acesso a jogos, sendo eles: Core, Standard e Ultimate. 
 A eles pode ser adicionado outros dois serviços: EA Play Season Pass e Minecraft Season Pass, que dão acessos adicionais.
 Além disso, as inscrições podem ser: mensais, anuais e quadrimestrais.
+*Iportante: os presentes dados são fictícios e são utilizados para fins de aprendizado.
 
 ## Descrição do Dashboard
 Visa entregar de forma visual as seguintes informações:
@@ -20,4 +21,7 @@ Visa entregar de forma visual as seguintes informações:
 - Period:
   Varia os gráficos de TOTAL EA PLAY/MINECRAFT SEASON PLAY, mostranto a receita adquirida através das modalidades de periodo dos planos.
 
+## Acesso
+Para acessar-lo bastas clicar em donwload do arquivo. 
+As guias usadas para estruturar o projeto estão ocultadas, então basta reativar-lás se necessários. 
 
